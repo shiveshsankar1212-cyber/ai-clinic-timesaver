@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+fpdf
+plotly
+openai>=1.0.0
